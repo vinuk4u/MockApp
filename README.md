@@ -4,7 +4,7 @@ This is a mock application to demonstrate on two scenarios
 
 # Scenario 1:
 1. Material Design
-2. Horizonatal List using RecyclerView
+2. Horizontal List using RecyclerView
 3. Other basic UI components
 
 # Scenario 2:
@@ -17,4 +17,4 @@ This is a mock application to demonstrate on two scenarios
 # Libraries been used:
 1. Google's volley library to initiate API calls (http://goo.gl/HJo7ni)
 2. Jakewharton's butterknife library to field and method binding for Android views (http://goo.gl/frK1sy)
-3. App supports Navigation Drawer menu using Navigation View to navigate to Scenario 1 & 2.
+3. App supports Navigation Drawer menu using Navigation View to navigate thru Scenario 1 & 2.
