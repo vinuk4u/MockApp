@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MockApp</string>
+
+    <string name="scenario1">Scenario 1</string>
+    <string name="scenario2">Scenario 2</string>
+
+    <string name="text1">TextView1</string>
+    <string name="text2">TextView2</string>
+    <string name="text3">TextView3</string>
+
+    <string name="hint_text">Please select an item from top</string>
+
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+
+    <string name="no_internet_connection_available">No Internet connection available</string>
+    <string name="generic_server_down" translatable="false">Server Down</string>
+    <string name="unknown_error">Unknown error</string>
+
+    <string name="downloading">Downloading&#8230; Please wait!!!</string>
+
+    <string name="retry">Retry</string>
+
+    <string name="mode_of_transport">Mode of Transport:</string>
+    <string name="mode_of_transport_car">Car - </string>
+    <string name="mode_of_transport_train">Train - </string>
+
+    <string name="maps_not_found">Maps not found</string>
+    <string name="navigate">Navigate</string>
+
+    <string name="version">Version</string>
+
+    <string name="map">map</string>
+    <string name="icon">icon</string>
+</resources>
